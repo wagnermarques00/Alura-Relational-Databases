@@ -1,6 +1,8 @@
 # SQL :mag:
 Studies on SQL (Structured Query Language)
 
+
+
 ##  SQL Server
 
 ### Studied so far:
