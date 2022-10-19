@@ -3,7 +3,7 @@ Studies on SQL (Structured Query Language)
 
 
 
-##  SQL Server
+##  PostgreSQL
 
 ### Studied so far:
 
@@ -11,5 +11,5 @@ Studies on SQL (Structured Query Language)
 
 ### Currently studying:
 
--  SQL Server: Introduction to SQL with Microsoft SQL Server 2017
+-  PostgreSQL
 
