@@ -1,5 +1,5 @@
-# SQL :mag:
-Studies on SQL (Structured Query Language)
+# Relational Databases:mag:
+Relational Database Studies
 
 
 
@@ -7,9 +7,11 @@ Studies on SQL (Structured Query Language)
 
 ### Studied so far:
 
+1. PostgreSQL
+
 
 
 ### Currently studying:
 
--  PostgreSQL
+-  PostgreSQL: Views, Sub-Queries, and Functions
 
