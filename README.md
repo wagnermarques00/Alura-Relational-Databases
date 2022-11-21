@@ -14,5 +14,4 @@ Relational Database Studies
 
 ### Currently studying:
 
--  
-
+-  PostgreSQL: DML and DDL commands
