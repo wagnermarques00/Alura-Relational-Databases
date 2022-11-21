@@ -8,10 +8,11 @@ Relational Database Studies
 ### Studied so far:
 
 1. PostgreSQL
+1. PostgreSQL: Views, Sub-Queries, and Functions
 
 
 
 ### Currently studying:
 
--  PostgreSQL: Views, Sub-Queries, and Functions
+-  
 
