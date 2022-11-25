@@ -9,9 +9,10 @@ Relational Database Studies
 
 1. PostgreSQL
 1. PostgreSQL: Views, Sub-Queries, and Functions
+1. PostgreSQL: DML and DDL commands
 
 
 
 ### Currently studying:
 
--  PostgreSQL: DML and DDL commands
+-  
