@@ -16,4 +16,4 @@ Relational Database Studies
 
 ### Currently studying:
 
--  PostgreSQL: Triggers, Transactions, Errors, and Cursors
+-  
